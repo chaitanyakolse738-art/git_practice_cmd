@@ -1,8 +1,12 @@
 def test_me();
 return "test.py"
 
+<<<<<<< HEAD
 print("this is new file")
 
 def_test();
 breck
 ssnnlsnlbn
+=======
+this is new file
+>>>>>>> 086e9aa (test)
