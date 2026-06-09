@@ -1,0 +1,6 @@
+git_func()
+return "hello"
+
+print "hello dosto"
+
+
